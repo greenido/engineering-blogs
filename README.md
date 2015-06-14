@@ -1,4 +1,35 @@
 # Software Engineering Blogs
+
+**Individuals/Group Contributors**
+* A List Apart http://alistapart.com/
+* Addy Osmani http://addyosmani.com/blog/
+* Paul Kinlan https://paul.kinlan.me/
+* Ido Green http://greenido.wordpress.com
+* Brendan Gregg http://www.brendangregg.com/blog/
+* Scott Hanselman http://www.hanselman.com/blog/
+* Steve Yegge http://steve-yegge.blogspot.com/
+* Code Better http://codebetter.com/
+* Codrops http://tympanus.net/codrops/
+* David Walsh http://davidwalsh.name/
+* Jeff Atwood http://blog.codinghorror.com/
+* Joel Spolsky http://www.joelonsoftware.com/
+* Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
+* Justin Weiss http://www.justinweiss.com/blog/
+* Marco Pivetta http://ocramius.github.io/
+* Martin Fowler http://martinfowler.com/
+* Matt Cutts https://www.mattcutts.com/blog/
+* Michaël Gallego http://www.michaelgallego.fr/
+* Mike Ash https://www.mikeash.com/pyblog/
+* NSHipster http://nshipster.com/
+* Paul Graham http://www.paulgraham.com/articles.html
+* Radim Řehůřek http://radimrehurek.com/blog/
+* Real Python https://realpython.com/blog
+* Swift Offical Dev Blog https://developer.apple.com/swift/blog/
+* Swizec Teller http://swizec.com/blog/
+* Virtuous Code http://devblog.avdi.org/
+* Yegor Bugayenko http://www.yegor256.com/
+* Gleb Bahmutov http://glebbahmutov.com/blog/
+* 
 **Companies**
 * Adzerk http://adzerk.com/tech/
 * AdRoll http://tech.adroll.com/blog/
@@ -113,35 +144,9 @@
 * Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
 
-**Individuals/Group Contributors**
-* A List Apart http://alistapart.com/
-* Brendan Gregg http://www.brendangregg.com/blog/
-* Code Better http://codebetter.com/
-* Codrops http://tympanus.net/codrops/
-* Daily JS http://dailyjs.com/
-* David Walsh http://davidwalsh.name/
-* Jeff Atwood http://blog.codinghorror.com/
-* Joel Spolsky http://www.joelonsoftware.com/
-* Jonathan DEKHTIAR http://rss.jonathandekhtiar.eu/
-* Justin Weiss http://www.justinweiss.com/blog/
-* Marco Pivetta http://ocramius.github.io/
-* Martin Fowler http://martinfowler.com/
-* Matt Cutts https://www.mattcutts.com/blog/
-* Michaël Gallego http://www.michaelgallego.fr/
-* Mike Ash https://www.mikeash.com/pyblog/
-* NSHipster http://nshipster.com/
-* Paul Graham http://www.paulgraham.com/articles.html
-* Radim Řehůřek http://radimrehurek.com/blog/
-* Real Python https://realpython.com/blog
-* Scott Hanselman http://www.hanselman.com/blog/
-* Steve Yegge http://steve-yegge.blogspot.com/
-* Swift Offical Dev Blog https://developer.apple.com/swift/blog/
-* Swizec Teller http://swizec.com/blog/
-* Virtuous Code http://devblog.avdi.org/
-* Yegor Bugayenko http://www.yegor256.com/
-* Gleb Bahmutov http://glebbahmutov.com/blog/
 
 **Aggregators**
+* Daily JS http://dailyjs.com/
 * Complete IT Professional http://www.completeitprofessional.com/top-100-blogs-for-software-developers
 * NOOP.NL http://noop.nl/2009/09/top-200-blogs-for-developers-q3-2009.html
 * Toptal http://www.toptal.com/it/toptal-s-selection-of-top-developer-blogs
